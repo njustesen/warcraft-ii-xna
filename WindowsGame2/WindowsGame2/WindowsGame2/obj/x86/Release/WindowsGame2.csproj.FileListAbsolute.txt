@@ -1,0 +1,10 @@
+c:\users\niels\documents\visual studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\niels\documents\visual studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\niels\documents\visual studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.exe
+c:\users\niels\documents\visual studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.pdb
+c:\users\niels\documents\visual studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.exe
+c:\users\niels\documents\visual studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.pdb
+c:\Users\Niels\Documents\Visual Studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\grass.xnb
+c:\Users\Niels\Documents\Visual Studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\forest.xnb
+c:\Users\Niels\Documents\Visual Studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\dirt.xnb
+c:\Users\Niels\Documents\Visual Studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\water.xnb

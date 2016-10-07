@@ -1,0 +1,95 @@
+c:\Users\Niels\Documents\Visual Studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\grass.xnb
+c:\Users\Niels\Documents\Visual Studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\forest.xnb
+c:\Users\Niels\Documents\Visual Studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\dirt.xnb
+c:\Users\Niels\Documents\Visual Studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\water.xnb
+c:\Users\Niels\Documents\Visual Studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.exe
+c:\Users\Niels\Documents\Visual Studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.pdb
+c:\Users\Niels\Documents\Visual Studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\ResolveAssemblyReference.cache
+c:\Users\Niels\Documents\Visual Studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Users\Niels\Documents\Visual Studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.exe
+c:\Users\Niels\Documents\Visual Studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.pdb
+C:\Users\Niels\documents\visual studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\dirt2grass.xnb
+C:\Users\Niels\documents\visual studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\dirt8grass.xnb
+C:\Users\Niels\documents\visual studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\dirt4grass.xnb
+C:\Users\Niels\documents\visual studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\dirt6grass.xnb
+C:\Users\Niels\documents\visual studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\dirt2grass4grass.xnb
+C:\Users\Niels\documents\visual studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\bound.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\grass\grass.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt2grass.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt8grass.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt4grass.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt6grass.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\bound.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt86.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt84.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt24.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt26.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt7.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt9.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt1.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt3.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt19.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt37.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\grass\grass11.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt200.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt2grass2.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt8grass2.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt6grass2.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt4grass2.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\px.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest1.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest2.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest3.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest4.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest6.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest7.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest24.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest26.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest8.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest84.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest86.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest9.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water1.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water2.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water24.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water26.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water3.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water4.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water6.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water7.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water8.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water84.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water86.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water9.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\startLocations\startLocationRed.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle1Red.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle2Red.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle3Red.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle4Red.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle6Red.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle7Red.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle8Red.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle9Red.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\fog.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\fog\fog.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\humanBar.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle8RedSel.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle1RedSel.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle2RedSel.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle3RedSel.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle4RedSel.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle6RedSel.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle7RedSel.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle9RedSel.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\cursor\cursor.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\selectionTile.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\HumanBarUp.xnb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.exe
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.pdb
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.exe
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.pdb

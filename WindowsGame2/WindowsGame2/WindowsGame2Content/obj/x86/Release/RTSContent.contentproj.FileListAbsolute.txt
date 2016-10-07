@@ -1,0 +1,2 @@
+c:\Users\Niels\Documents\Visual Studio 2010\Projects\BDSA\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Release\ResolveAssemblyReference.cache

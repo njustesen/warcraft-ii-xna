@@ -1,0 +1,703 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>tiles\grass\grass.png</Source>
+      <Name>tiles\grass\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\grass\grass.xnb</Output>
+      <Time>2011-03-05T00:31:46.7515+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\forest\forest.png</Source>
+      <Name>tiles\forest\forest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest.xnb</Output>
+      <Time>2011-03-05T00:31:52.8855+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt.png</Source>
+      <Name>tiles\dirt\dirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt.xnb</Output>
+      <Time>2011-03-05T00:32:02.5645+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\water\water.png</Source>
+      <Name>tiles\water\water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water.xnb</Output>
+      <Time>2011-03-08T19:21:02.7258+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt2grass.png</Source>
+      <Name>tiles\dirt\dirt2grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt2grass.xnb</Output>
+      <Time>2011-03-05T10:01:40.4868+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt8grass.png</Source>
+      <Name>tiles\dirt\dirt8grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt8grass.xnb</Output>
+      <Time>2011-03-05T10:23:02.2988+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt4grass.png</Source>
+      <Name>tiles\dirt\dirt4grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt4grass.xnb</Output>
+      <Time>2011-03-05T10:27:38.6868+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt6grass.png</Source>
+      <Name>tiles\dirt\dirt6grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt6grass.xnb</Output>
+      <Time>2011-03-05T10:32:08.646+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bound.png</Source>
+      <Name>bound</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\bound.xnb</Output>
+      <Time>2011-03-05T11:05:52.3048+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt86.png</Source>
+      <Name>tiles\dirt\dirt86</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt86.xnb</Output>
+      <Time>2011-03-05T16:04:12.80515+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt84.png</Source>
+      <Name>tiles\dirt\dirt84</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt84.xnb</Output>
+      <Time>2011-03-06T22:49:50.3256+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt24.png</Source>
+      <Name>tiles\dirt\dirt24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt24.xnb</Output>
+      <Time>2011-03-06T22:59:53.5112+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt26.png</Source>
+      <Name>tiles\dirt\dirt26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt26.xnb</Output>
+      <Time>2011-03-06T23:09:40.5662+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt7.png</Source>
+      <Name>tiles\dirt\dirt7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt7.xnb</Output>
+      <Time>2011-03-07T13:14:44.1184+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt9.png</Source>
+      <Name>tiles\dirt\dirt9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt9.xnb</Output>
+      <Time>2011-03-07T13:14:49.4764+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt1.png</Source>
+      <Name>tiles\dirt\dirt1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt1.xnb</Output>
+      <Time>2011-03-07T13:14:59.1574+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt3.png</Source>
+      <Name>tiles\dirt\dirt3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt3.xnb</Output>
+      <Time>2011-03-07T13:15:02.7734+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt19.png</Source>
+      <Name>tiles\dirt\dirt19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt19.xnb</Output>
+      <Time>2011-03-07T13:23:33.413+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt37.png</Source>
+      <Name>tiles\dirt\dirt37</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt37.xnb</Output>
+      <Time>2011-03-07T13:26:34.851+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\grass\grass11.png</Source>
+      <Name>tiles\grass\grass11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\grass\grass11.xnb</Output>
+      <Time>2011-03-07T14:01:20.9743+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt200.png</Source>
+      <Name>tiles\dirt\dirt200</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt200.xnb</Output>
+      <Time>2011-03-07T14:12:18.3548+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt2grass2.png</Source>
+      <Name>tiles\dirt\dirt2grass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt2grass2.xnb</Output>
+      <Time>2011-03-07T14:20:17.2433+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt8grass2.png</Source>
+      <Name>tiles\dirt\dirt8grass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt8grass2.xnb</Output>
+      <Time>2011-03-07T14:20:24.8643+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt6grass2.png</Source>
+      <Name>tiles\dirt\dirt6grass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt6grass2.xnb</Output>
+      <Time>2011-03-07T14:20:39.4018+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\dirt\dirt4grass2.png</Source>
+      <Name>tiles\dirt\dirt4grass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\dirt\dirt4grass2.xnb</Output>
+      <Time>2011-03-07T14:20:50.1473+01:00</Time>
+    </Item>
+    <Item>
+      <Source>px.png</Source>
+      <Name>px</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\px.xnb</Output>
+      <Time>2011-03-07T14:35:28.22855+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\forest\forest1.png</Source>
+      <Name>tiles\forest\forest1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest1.xnb</Output>
+      <Time>2011-03-08T17:56:49.533+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\forest\forest2.png</Source>
+      <Name>tiles\forest\forest2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest2.xnb</Output>
+      <Time>2011-03-08T17:59:30.1274+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\forest\forest3.png</Source>
+      <Name>tiles\forest\forest3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest3.xnb</Output>
+      <Time>2011-03-08T17:56:49.535+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\forest\forest4.png</Source>
+      <Name>tiles\forest\forest4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest4.xnb</Output>
+      <Time>2011-03-08T17:56:49.536+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\forest\forest6.png</Source>
+      <Name>tiles\forest\forest6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest6.xnb</Output>
+      <Time>2011-03-08T17:56:49.536+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\forest\forest7.png</Source>
+      <Name>tiles\forest\forest7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest7.xnb</Output>
+      <Time>2011-03-08T17:56:49.54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\forest\forest24.png</Source>
+      <Name>tiles\forest\forest24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest24.xnb</Output>
+      <Time>2011-03-08T17:56:59.085+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\forest\forest26.png</Source>
+      <Name>tiles\forest\forest26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest26.xnb</Output>
+      <Time>2011-03-08T17:56:59.086+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\forest\forest8.png</Source>
+      <Name>tiles\forest\forest8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest8.xnb</Output>
+      <Time>2011-03-08T17:56:59.083+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\forest\forest84.png</Source>
+      <Name>tiles\forest\forest84</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest84.xnb</Output>
+      <Time>2011-03-08T17:56:59.086+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\forest\forest86.png</Source>
+      <Name>tiles\forest\forest86</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest86.xnb</Output>
+      <Time>2011-03-08T17:56:59.087+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\forest\forest9.png</Source>
+      <Name>tiles\forest\forest9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\forest\forest9.xnb</Output>
+      <Time>2011-03-08T17:56:59.084+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\water\water1.png</Source>
+      <Name>tiles\water\water1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water1.xnb</Output>
+      <Time>2011-03-08T19:21:02.7268+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\water\water2.png</Source>
+      <Name>tiles\water\water2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water2.xnb</Output>
+      <Time>2011-03-08T19:21:02.7268+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\water\water24.png</Source>
+      <Name>tiles\water\water24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water24.xnb</Output>
+      <Time>2011-03-08T19:21:02.7498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\water\water26.png</Source>
+      <Name>tiles\water\water26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water26.xnb</Output>
+      <Time>2011-03-08T19:21:02.7518+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\water\water3.png</Source>
+      <Name>tiles\water\water3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water3.xnb</Output>
+      <Time>2011-03-08T19:21:02.7278+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\water\water4.png</Source>
+      <Name>tiles\water\water4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water4.xnb</Output>
+      <Time>2011-03-08T19:21:02.7288+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\water\water6.png</Source>
+      <Name>tiles\water\water6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water6.xnb</Output>
+      <Time>2011-03-08T19:21:02.7288+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\water\water7.png</Source>
+      <Name>tiles\water\water7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water7.xnb</Output>
+      <Time>2011-03-08T19:21:02.7488+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\water\water8.png</Source>
+      <Name>tiles\water\water8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water8.xnb</Output>
+      <Time>2011-03-08T19:21:02.7488+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\water\water84.png</Source>
+      <Name>tiles\water\water84</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water84.xnb</Output>
+      <Time>2011-03-08T19:21:02.7528+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\water\water86.png</Source>
+      <Name>tiles\water\water86</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water86.xnb</Output>
+      <Time>2011-03-08T19:21:02.7528+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\water\water9.png</Source>
+      <Name>tiles\water\water9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\water\water9.xnb</Output>
+      <Time>2011-03-08T19:21:02.7498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\startLocations\startLocationRed.png</Source>
+      <Name>units\human\startLocations\startLocationRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\startLocations\startLocationRed.xnb</Output>
+      <Time>2011-03-10T18:10:13.19855+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle1Red.png</Source>
+      <Name>units\human\footman\idle1Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle1Red.xnb</Output>
+      <Time>2011-03-09T23:27:05.8946+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle2Red.png</Source>
+      <Name>units\human\footman\idle2Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle2Red.xnb</Output>
+      <Time>2011-03-09T23:27:05.8966+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle3Red.png</Source>
+      <Name>units\human\footman\idle3Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle3Red.xnb</Output>
+      <Time>2011-03-09T23:27:05.8976+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle4Red.png</Source>
+      <Name>units\human\footman\idle4Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle4Red.xnb</Output>
+      <Time>2011-03-09T23:27:05.8986+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle6Red.png</Source>
+      <Name>units\human\footman\idle6Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle6Red.xnb</Output>
+      <Time>2011-03-09T23:27:05.8996+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle7Red.png</Source>
+      <Name>units\human\footman\idle7Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle7Red.xnb</Output>
+      <Time>2011-03-09T23:27:05.9006+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle8Red.png</Source>
+      <Name>units\human\footman\idle8Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle8Red.xnb</Output>
+      <Time>2011-03-09T23:27:05.9016+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle9Red.png</Source>
+      <Name>units\human\footman\idle9Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle9Red.xnb</Output>
+      <Time>2011-03-09T23:27:05.9026+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fog.png</Source>
+      <Name>fog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\fog.xnb</Output>
+      <Time>2011-03-10T22:52:48.95625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles\fog\fog.png</Source>
+      <Name>tiles\fog\fog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tiles\fog\fog.xnb</Output>
+      <Time>2011-03-11T00:10:01.45545+01:00</Time>
+    </Item>
+    <Item>
+      <Source>humanBar.png</Source>
+      <Name>humanBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\humanBar.xnb</Output>
+      <Time>2011-03-12T18:28:27.90665+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle8RedSel.png</Source>
+      <Name>units\human\footman\idle8RedSel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle8RedSel.xnb</Output>
+      <Time>2011-03-11T17:23:35.991+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle1RedSel.png</Source>
+      <Name>units\human\footman\idle1RedSel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle1RedSel.xnb</Output>
+      <Time>2011-03-11T17:23:33.903+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle2RedSel.png</Source>
+      <Name>units\human\footman\idle2RedSel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle2RedSel.xnb</Output>
+      <Time>2011-03-11T17:23:33.927+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle3RedSel.png</Source>
+      <Name>units\human\footman\idle3RedSel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle3RedSel.xnb</Output>
+      <Time>2011-03-11T17:23:33.928+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle4RedSel.png</Source>
+      <Name>units\human\footman\idle4RedSel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle4RedSel.xnb</Output>
+      <Time>2011-03-11T17:23:33.93+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle6RedSel.png</Source>
+      <Name>units\human\footman\idle6RedSel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle6RedSel.xnb</Output>
+      <Time>2011-03-11T17:23:33.931+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle7RedSel.png</Source>
+      <Name>units\human\footman\idle7RedSel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle7RedSel.xnb</Output>
+      <Time>2011-03-11T17:23:33.932+01:00</Time>
+    </Item>
+    <Item>
+      <Source>units\human\footman\idle9RedSel.png</Source>
+      <Name>units\human\footman\idle9RedSel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\units\human\footman\idle9RedSel.xnb</Output>
+      <Time>2011-03-11T17:23:35.992+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor\cursor.png</Source>
+      <Name>cursor\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\cursor\cursor.xnb</Output>
+      <Time>2011-03-11T18:44:07.848+01:00</Time>
+    </Item>
+    <Item>
+      <Source>selectionTile.png</Source>
+      <Name>selectionTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\selectionTile.xnb</Output>
+      <Time>2011-03-11T22:05:46.8257+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HumanBarUp.png</Source>
+      <Name>HumanBarUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\HumanBarUp.xnb</Output>
+      <Time>2011-03-12T18:30:57.76965+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Niels\Documents\My Dropbox\Private\game\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-11-13T19:57:24.70385+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
